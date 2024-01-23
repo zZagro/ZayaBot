@@ -25,3 +25,5 @@ build\resources\main\client_secrets.json
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/src/resources/client_secrets.json
+/build/resources/main/client_secrets.json
